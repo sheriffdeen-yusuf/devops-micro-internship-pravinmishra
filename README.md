@@ -12,13 +12,14 @@
 
 ## About Me
 
-| | |
-|---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+|                |                                                                             |
+| -------------- | --------------------------------------------------------------------------- |
+| **Name**       | Sheriffdeen Yusuf                                                           |
+| **LinkedIn**   | [Sheriffeen Yusuf](https://www.linkedin.com/in/yusuf-sheriffdeen-203199185) |
+| **Location**   | Nigeria                                                                     |
+| **Background** | Software Engineering, ML Enthusiast                                         |
+| **Goal**       | Become a DevOps Engineer                                                    |
+|                |
 
 ---
 
@@ -41,23 +42,23 @@ This is not a course. It is an internship-style program — real deployments, re
 
 <!-- If you were named Champion of the Week, add the badge below and link to your LinkedIn post -->
 
-| Week | Award | Post |
-|------|-------|------|
+| Week                  | Award                            | Post                        |
+| --------------------- | -------------------------------- | --------------------------- |
 | <!-- e.g. Week 03 --> | <!-- 🏆 Champion of the Week --> | <!-- [LinkedIn Post](#) --> |
 
 ### Leaderboard
 
 <!-- Add your cohort leaderboard rank here as you progress -->
 
-> 🥇 Cohort 3 Rank: **#__** <!-- Update this each week -->
+> 🥇 Cohort 3 Rank: **#\_\_** <!-- Update this each week -->
 
 ---
 
 ## My DevOps Stack
 
-*Earn a badge each week. To unlock: remove the `<!--` and `-->` from the badge line below.*
+_Earn a badge each week. To unlock: remove the `<!--` and `-->` from the badge line below._
 
-*Share your stack:* `https://github.com/YOUR-USERNAME/devops-micro-internship-pravinmishra#my-devops-stack`
+_Share your stack:_ `https://github.com/sheriffdeen-yusuf/devops-micro-internship-pravinmishra#my-devops-stack`
 
 **Preview — what your full stack looks like:**
 
@@ -67,8 +68,8 @@ This is not a course. It is an internship-style program — real deployments, re
 
 **Your stack (uncomment each badge as you earn it):**
 
-<!-- Week 00 → Internet & Networking Basics -->
-<!-- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) -->
+Week 00 → Internet & Networking Basics
+[![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/)
 
 <!-- Week 01 → Success Mindset -->
 <!-- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) -->
@@ -109,41 +110,41 @@ This is not a course. It is an internship-style program — real deployments, re
 <!-- Week 13 → Final Project / Capstone -->
 <!-- [![Week 13 – Capstone](./badges/week-13.svg)](./week-13-final-project/) -->
 
-*Complete a week → uncomment the badge → watch your stack grow.*
+_Complete a week → uncomment the badge → watch your stack grow._
 
 ---
 
 ## Program Overview
 
-| Phase | Weeks | Focus |
-|-------|-------|-------|
-| Foundation | 00 – 02 | Networking, Mindset, Agentic AI |
+| Phase       | Weeks   | Focus                               |
+| ----------- | ------- | ----------------------------------- |
+| Foundation  | 00 – 02 | Networking, Mindset, Agentic AI     |
 | Core DevOps | 03 – 05 | Linux & Bash, Git, DevOps Lifecycle |
-| Cloud | 06 – 07 | AWS & Azure Real Deployments |
-| Automation | 08 – 10 | Terraform, Ansible, CI/CD |
-| Containers | 11 – 12 | Docker & Kubernetes |
-| Capstone | 13 | Final Project |
+| Cloud       | 06 – 07 | AWS & Azure Real Deployments        |
+| Automation  | 08 – 10 | Terraform, Ansible, CI/CD           |
+| Containers  | 11 – 12 | Docker & Kubernetes                 |
+| Capstone    | 13      | Final Project                       |
 
 ---
 
 ## Weekly Progress
 
-| Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
-|------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
-| 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
-| 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
-| 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
-| 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
-| 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
-| 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
-| 11 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
-| 12 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |
-| 13 | Final Project | ⬜ Not Started | ⏳ Pending | — | — |
+| Week | Topic                        | Status         | Assignment | LinkedIn Post              | Blog Post                                                                                            |
+| ---- | ---------------------------- | -------------- | ---------- | -------------------------- | ---------------------------------------------------------------------------------------------------- |
+| 00   | Internet & Networking Basics | ✅ Completed   | ✅ Solved  | https://lnkd.in/p/em5FZq92 | https://medium.com/@sheriffdeenyusuf1130/week-0-understanding-the-foundations-of-devops-a178cfe860a0 |
+| 01   | Success Mindset              | ⬜ Not Started | ⏳ Pending | —                          | —                                                                                                    |
+| 02   | Agentic AI with Claude Code  | ⬜ Not Started | ⏳ Pending | —                          | —                                                                                                    |
+| 03   | Linux & Bash for DevOps      | ⬜ Not Started | ⏳ Pending | —                          | —                                                                                                    |
+| 04   | Git & GitHub                 | ⬜ Not Started | ⏳ Pending | —                          | —                                                                                                    |
+| 05   | DevOps Lifecycle & Agile     | ⬜ Not Started | ⏳ Pending | —                          | —                                                                                                    |
+| 06   | AWS Cloud                    | ⬜ Not Started | ⏳ Pending | —                          | —                                                                                                    |
+| 07   | Azure Cloud                  | ⬜ Not Started | ⏳ Pending | —                          | —                                                                                                    |
+| 08   | Terraform                    | ⬜ Not Started | ⏳ Pending | —                          | —                                                                                                    |
+| 09   | Ansible                      | ⬜ Not Started | ⏳ Pending | —                          | —                                                                                                    |
+| 10   | Azure DevOps (CI/CD)         | ⬜ Not Started | ⏳ Pending | —                          | —                                                                                                    |
+| 11   | Docker                       | ⬜ Not Started | ⏳ Pending | —                          | —                                                                                                    |
+| 12   | Kubernetes                   | ⬜ Not Started | ⏳ Pending | —                          | —                                                                                                    |
+| 13   | Final Project                | ⬜ Not Started | ⏳ Pending | —                          | —                                                                                                    |
 
 **Status:** ⬜ Not Started &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; ✅ Completed<br>
 **Assignment:** ⏳ Pending &nbsp;|&nbsp; ✅ Solved
@@ -152,7 +153,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 ## Certificate of Completion
 
-*Awarded upon completing Week 13 — Final Project.*
+_Awarded upon completing Week 13 — Final Project._
 
 <!-- Drop your certificate image here -->
 
