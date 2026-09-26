@@ -242,7 +242,7 @@ Hashtags:
 
 Paste your LinkedIn post URL here:
 
-https://lnkd.in/p/em5FZq92
+https://www.linkedin.com/posts/yusuf-sheriffdeen-203199185_dmi-devops-dmi-share-7508867650723389441-qGtK/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACuhsuMBb3yMV1YnsyLi5GNpnlG7ejmS4sc
 
 ---
 
